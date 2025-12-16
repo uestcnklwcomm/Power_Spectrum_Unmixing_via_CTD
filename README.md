@@ -1,6 +1,4 @@
 # TSP_PSU_CCPD
-Code and data used in the paper:
-
 Chen, Xiaonan and Wang, Jun. "Power Spectrum Unmixing via Coupled Tensor Decomposition: Unified Identifiability and Algebraic Solution." IEEE Transactions on Signal Processing, 2025, [DOI: 10.1109/TSP.2025.3615251](https://ieeexplore.ieee.org/document/11185150).
 
 Citation
